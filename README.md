@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+<div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddamddi)](https://hits.seeyoufarm.com)
+  
+</div>
+
+
+<div align=center>
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ddamddi.github.io/)](https://ddamddi.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeong-hyeon-kim-3aa89817a/)](https://www.linkedin.com/in/gyeong-hyeon-kim-3aa89817a/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardkkh@gmail.com)](mailto:leonardkkh@gmail.com)	
+  
+</div>
 
 <!--
 **ddamddi/ddamddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
