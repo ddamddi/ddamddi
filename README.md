@@ -1,6 +1,6 @@
 <div align=center>
   
-[![ddamddi's github stats](https://github-readme-stats.vercel.app/api?username=ddamddi&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![ddamddi's github stats](https://github-readme-stats.vercel.app/api?username=ddamddi&theme=defualt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
 
